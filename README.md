@@ -1,0 +1,4 @@
+hangman
+=======
+
+CoderDojo Hangman test
